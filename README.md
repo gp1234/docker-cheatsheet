@@ -18,7 +18,7 @@
   * Or, you can send a _SIGKILL_ with `docker kill <containerId>` to shutdown inmediatly 
 ___  
 ## Creating your own Images
-You can use other images by writting a **Dockerfile**
+You can use your own images by writting a **Dockerfile**
 
 The docker Image can have:
 1. A base Image using the commands `FROM <baseImage>` like ` FROM node:alpine`

@@ -48,10 +48,10 @@ In it you will enter
       1. `image: redis`
 3. You can set optional options like:
    |   Flag    | command|
-   |-----------|--------|
+   |  ----------- | -------- |
    | `restart` | always |
    |  `build`    |   .    |
-   | `ports`| "4001:8080"|
+   | `ports` | "4001:8080"|
 
 To create and run  `docker-compose up --`
 
